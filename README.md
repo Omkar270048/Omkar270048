@@ -148,18 +148,35 @@ Java        █░░░░░░░░░░░░░░░░░░░    4%  
 ## 📬 Get in Touch
 
 <div align="center">
-  <p><strong>Let's connect and collaborate!</strong></p>
   
-  📧 **Email:** [omkarkamat.dev@gmail.com](mailto:omkarkamat.dev@gmail.com)  
-  🔗 **LinkedIn:** [Omkar Kamat](https://www.linkedin.com/in/omkar-kamat-62965a1ab/)  
-  📱 **Instagram:** [@omkar270048](https://www.instagram.com/omkar270048/)  
-  💻 **GitHub:** [Omkar270048](https://github.com/Omkar270048/)  
+  <h3>Let's connect and build something amazing together! 🚀</h3>
   
   <br/>
   
-  **💼 Available for:** Full-Stack Development | Android Development | Web Design | Consulting  
+  ### Social & Professional Links
+  
+  [![Email](https://img.shields.io/badge/Email-omkarkamat.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkamat.dev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Kamat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-kamat-62965a1ab/)
+  [![Instagram](https://img.shields.io/badge/Instagram-@omkar270048-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omkar270048/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Omkar270048-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkar270048/)
   
   <br/>
   
-  <a href="https://omkarkamat.web.app/">🌐 Visit My Portfolio →</a>
+  ### What I Can Help With
+  
+  ![Full-Stack Development](https://img.shields.io/badge/-Full_Stack_Development-4A90E2?style=flat-square)
+  ![Android Development](https://img.shields.io/badge/-Android_Development-3DDC84?style=flat-square)
+  ![Web Design](https://img.shields.io/badge/-Web_Design-FF6B9D?style=flat-square)
+  ![Consulting](https://img.shields.io/badge/-Consulting-FFA500?style=flat-square)
+  
+  <br/>
+  
+  ### Open To Opportunities
+  
+  💼 **Full-Time | Freelance | Contract | Part-Time**
+  
+  <br/>
+  
+  [![Visit Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-omkarkamat.web.app-5540af?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omkarkamat.web.app/)
+  
 </div>
