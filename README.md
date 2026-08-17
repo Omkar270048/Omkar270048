@@ -74,6 +74,16 @@
 <table>
   <tr>
     <td width="50%" align="center">
+      <h3>✏️ K-Quill Editor</h3>
+      <p>A customizable rich text editor component for seamless content creation and formatting</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/Omkar270048/k-quill-editor">🔗 View Repository →</a>
+    </td>
+    <td width="50%" align="center">
       <h3>📄 OMR Software</h3>
       <p>Exam management system with answer key creation, OMR sheet processing, and detailed result reports</p>
       <p>
@@ -82,6 +92,8 @@
       </p>
       <a href="https://github.com/Omkar270048/quick_omr">🔗 View Repository →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3>💰 Money Manager</h3>
       <p>Android app for tracking and managing daily personal expenses with intuitive UI and charts</p>
@@ -91,8 +103,6 @@
       </p>
       <a href="https://github.com/Omkar270048/Money_Manager">🔗 View Repository →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3>🖼️ Photo Editor</h3>
       <p>Browser-based image editing tool built entirely in vanilla JS — filters, adjustments & export</p>
@@ -102,16 +112,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <a href="https://github.com/Omkar270048/Photo-Editor">🔗 View Repository →</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>✏️ K-Quill Editor</h3>
-      <p>A customizable rich text editor component for seamless content creation and formatting</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/Omkar270048/k-quill-editor">🔗 View Repository →</a>
     </td>
   </tr>
 </table>
