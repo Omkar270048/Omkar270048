@@ -124,7 +124,7 @@
   
   | Role | Company | Period |
   |------|---------|--------|
-  | 💻 **Software Developer** | SchoolDigitalised, Patna | 2023 – Present |
+  | 💻 **Software Developer** | SchoolDigitalised, Patna | 2024 – Present |
   | 📱 **Android Developer Intern** | Techathalon, Mumbai | 2021 – 2022 |
   
   <br/>
