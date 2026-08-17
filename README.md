@@ -80,7 +80,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       </p>
-      <a href="https://github.com/Omkar270048/omr-software">🔗 View Repository →</a>
+      <a href="https://github.com/Omkar270048/quick_omr">🔗 View Repository →</a>
     </td>
     <td width="50%" align="center">
       <h3>💰 Money Manager</h3>
@@ -104,14 +104,14 @@
       <a href="https://github.com/Omkar270048/Photo-Editor">🔗 View Repository →</a>
     </td>
     <td width="50%" align="center">
-      <h3>🧮 Maths Game</h3>
-      <p>Interactive mathematical game for quick mental maths practice with timers and scoring</p>
+      <h3>✏️ K-Quill Editor</h3>
+      <p>A customizable rich text editor component for seamless content creation and formatting</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/Omkar270048/Maths-Game">🔗 View Repository →</a>
+      <a href="https://github.com/Omkar270048/k-quill-editor">🔗 View Repository →</a>
     </td>
   </tr>
 </table>
@@ -141,42 +141,3 @@
 Python      ████████████████░░░░   78%  ████████████████
 JavaScript  ████░░░░░░░░░░░░░░░░   18%  ████
 Java        █░░░░░░░░░░░░░░░░░░░    4%  █
-```
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-  
-  <h3>Let's connect and build something amazing together! 🚀</h3>
-  
-  <br/>
-  
-  ### Social & Professional Links
-  
-  [![Email](https://img.shields.io/badge/Email-omkarkamat.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkamat.dev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Kamat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-kamat-62965a1ab/)
-  [![Instagram](https://img.shields.io/badge/Instagram-@omkar270048-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omkar270048/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Omkar270048-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkar270048/)
-  
-  <br/>
-  
-  ### What I Can Help With
-  
-  ![Full-Stack Development](https://img.shields.io/badge/-Full_Stack_Development-4A90E2?style=flat-square)
-  ![Android Development](https://img.shields.io/badge/-Android_Development-3DDC84?style=flat-square)
-  ![Web Design](https://img.shields.io/badge/-Web_Design-FF6B9D?style=flat-square)
-  ![Consulting](https://img.shields.io/badge/-Consulting-FFA500?style=flat-square)
-  
-  <br/>
-  
-  ### Open To Opportunities
-  
-  💼 **Full-Time | Freelance | Contract | Part-Time**
-  
-  <br/>
-  
-  [![Visit Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-omkarkamat.web.app-5540af?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omkarkamat.web.app/)
-  
-</div>
