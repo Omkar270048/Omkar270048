@@ -11,7 +11,7 @@
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-omkarkamat.web.app-5540af?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omkarkamat.web.app/)
   [![GitHub](https://img.shields.io/badge/💻_GitHub-Omkar270048-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkar270048)
   [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Omkar_Kamat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-kamat)
-  [![Email](https://img.shields.io/badge/📧_Email-omkar.kamat@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkar.kamat@example.com)
+  [![Email](https://img.shields.io/badge/📧_Email-kamatdpratibha18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamatdpratibha18@gmail.com)
   
   <br/>
   
