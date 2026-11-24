@@ -123,8 +123,9 @@
   
   | Role | Company | Period |
   |------|---------|--------|
-  | 💻 **Software Developer** | SchoolDigitalised, Patna | 2024 – Present |
-  | 📱 **Android Developer Intern** | Techathalon, Mumbai | 2021 – 2022 |
+  | 💻 **Software Developer** | Digi Ritual Pvt. Ltd, Patna | 2026 – 2026 |
+  | 💻 **Software Developer** | School Digitalised Pvt. Ltd, Patna | 2024 – 2026 |
+  | 📱 **Android Developer Intern** | Techathalon Pvt. Ltd, Mumbai | 2021 – 2022 |
   
   <br/>
   
