@@ -4,8 +4,7 @@
   
   ### Full-Stack Developer | Android Developer | Problem Solver
   
-  📍 Mumbai, India · 💼 Currently building @ [SchoolDigitalised](https://www.indiafilings.com/search/school-digitalised-private-limited-cin-U62099TN2026PTC190977)
-  
+  📍 Mumbai, India
   <br/>
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-omkarkamat.web.app-5540af?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omkarkamat.web.app/)
